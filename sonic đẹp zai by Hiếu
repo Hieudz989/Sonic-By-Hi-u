@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Sonic By Hiếu",
+    logoscript = "137959504805004",
+    tacgia = "Hiếu đẹp zai"
+}
+loadstring(game:HttpGet"https://pastebin.com/raw/gteQm30R")()
